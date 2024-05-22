@@ -18,11 +18,11 @@ This is an interactive No-Code Website Builder application created to demonstrat
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/mtejera45/noCodeWebsiteBuilder.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd your-repository-name
+    cd noCodeWebsiteBuilder
     ```
 3. Install dependencies:
     ```sh
